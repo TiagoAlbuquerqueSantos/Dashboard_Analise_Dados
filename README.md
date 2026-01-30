@@ -1,2 +1,4 @@
 # Dashboard_Analise_Dados
-Aplicação web com streamlit e pandas para análise de dados
+
+Projeto de Análise de dados com python feito no curso de Imersão Dados_python da Alura.
+
