@@ -16,6 +16,8 @@ As imagens abaixo foram tiradas da pasta de screenshots e mostram detalhes da in
 
 ![DemodoSite](/screenshots/Demo_do_site.png)
 
+Nesse link temos mais detalhes do dashboard: https://dashboard-database.streamlit.app/
+
 ## Como Contribuir
 Sinta-se à vontade para abrir um Pull Request caso deseje contribuir para o projeto ou relatar problemas através da seção de problemas do GitHub.
 
