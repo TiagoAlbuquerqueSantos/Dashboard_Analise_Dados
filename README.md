@@ -14,8 +14,7 @@ O Dashboard é construído utilizando tecnologias modernas que permitem uma inte
 ## Imagens
 As imagens abaixo foram tiradas da pasta de screenshots e mostram detalhes da interface do Dashboard:
 
-![Screenshot 1](path/to/screenshots/screenshot1.png)
-![Screenshot 2](path/to/screenshots/screenshot2.png)
+![DemodoSite](/screenshots/Demo_do_Site.png)
 
 ## Como Contribuir
 Sinta-se à vontade para abrir um Pull Request caso deseje contribuir para o projeto ou relatar problemas através da seção de problemas do GitHub.
